@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#4DB6AC</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorAccent">#4CAF50</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    //#3F51B5
+    <color name="colorPrimaryDark">#303F9F</color>
+
+    <color name="color1">#37F8AB</color>
+    <color name="color2">#37D3F8</color>
+    <color name="color3">#f7ae11</color>
+    <color name="color4">#FA835E</color>
+    <color name="color5">#fb3f1a</color>
+    <color name="color6">#7E7E7E</color>
+    <color name="color7">#009688</color>
+    <color name="color8">#03A9F4</color>
+    <color name="color8old">#4DB6AC</color>
+    <color name="color9">#009688</color>
+    <color name="light_blue_400">#FF29B6F6</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="gray_400">#FFBDBDBD</color>
+    <color name="gray_600">#FF757575</color>
+    <color name="colorPrimary1">#008577</color>
+    <color name="colorPrimaryDark1">#00ceb4</color>
+    <color name="colorAccent1">#D81B60</color>
+    <color name="cardColor">#ffffff</color>
+    <color name="textcardColor">#3f3f3f</color>
+    <color name="color">#4DB6AC</color>
+    <color name="colorAccent2">#FF039BE5</color>
+    <color name="colorLight">#6ab7ff</color>
+
+</resources>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/background_image.xml" value="0.33240740740740743" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/btn_toggle_background.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/cell_shape.xml" value="0.3927083333333333" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/ic_action_close.xml" value="0.2601851851851852" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/ic_android.xml" value="0.38055555555555554" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" value="0.23796296296296296" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/ic_baseline_device_hub_24.xml" value="0.35185185185185186" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/ic_baseline_logout_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/ic_baseline_notifications_active_24.xml" value="0.25925925925925924" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/ic_baseline_notifications_off_24.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/ic_baseline_percent_24.xml" value="0.38125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.3453703703703704" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/ic_email.xml" value="0.26875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.30277777777777776" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/ic_menu_camera.xml" value="0.26481481481481484" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.26481481481481484" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.38055555555555554" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/ic_name.xml" value="0.26875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.30277777777777776" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/ic_pass.xml" value="0.26875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/ic_user.xml" value="0.37592592592592594" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/operat.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/rounded_border_edittext.xml" value="0.28020833333333334" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/side_nav_bar.xml" value="0.26481481481481484" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/thumb.xml" value="0.38055555555555554" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/toolbarback.xml" value="0.26481481481481484" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/toolbarbacktitre.xml" value="0.39427083333333335" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/toolbarbacktriage.xml" value="0.39427083333333335" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable/track.xml" value="0.2712962962962963" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_controller.xml" value="0.23076923076923078" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_coupe.xml" value="0.3651041666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_coupe2.xml" value="0.24003623188405798" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_defaut.xml" value="0.2640625" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_efficiency.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_expedition.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_expidition.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_imagetext.xml" value="0.19610507246376813" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_login.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_main2.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_maintainer.xml" value="0.18704710144927536" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_menu.xml" value="0.2640625" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_number_picker_layout.xml" value="0.2640625" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_ofs.xml" value="0.3651041666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_one_Packet.xml" value="0.327445652173913" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_one_packet.xml" value="0.327445652173913" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_packet.xml" value="0.2" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_rend.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_research.xml" value="0.3765625" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_scanSB.xml" value="0.1322463768115942" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_scanner_view.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_scanner_view_off.xml" value="0.1831306990881459" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_scanner_view_update.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_scansb.xml" value="0.12917933130699089" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_scansbdouble.xml" value="0.12917933130699089" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_sign_up.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_testscan.xml" value="0.15715579710144928" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_testscanbox.xml" value="0.1322463768115942" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_triage.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/app_bar_menu.xml" value="0.2640625" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/bottom_dialog.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/content_main.xml" value="0.2640625" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/content_menu.xml" value="0.2640625" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/dialog_searchable_spinner.xml" value="0.35" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/dialog_searchable_spinner.xml " value="0.35" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/fragment_admin.xml" value="0.176" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/fragment_dashboard.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/fragment_first.xml" value="0.2640625" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/fragment_gallery.xml" value="0.2640625" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/fragment_home.xml" value="0.2640625" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/fragment_notifications.xml" value="0.3651041666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/fragment_second.xml" value="0.2640625" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/fragment_slideshow.xml" value="0.2640625" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/listview_row.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/nameop_update.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/nav_header_menu.xml" value="0.2640625" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/operationaffect.xml" value="0.3651041666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/packet_details.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/panne.xml" value="0.30344202898550726" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/row.xml" value="0.35" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/rowof.xml" value="0.3651041666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/scansb.xml" value="0.12917933130699089" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/menu/activity_main_drawer.xml" value="0.26" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/menu/admin.xml" value="0.3651041666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/menu/maint_activity3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/menu/menu.xml" value="0.2640625" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/menu/menu_maint.xml" value="0.2640625" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.26481481481481484" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.26481481481481484" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginRegister/app/src/main/res/xml/network_security_config.xml" value="0.21965579710144928" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

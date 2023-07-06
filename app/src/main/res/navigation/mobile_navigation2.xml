@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation2"
+    app:startDestination="@+id/nav_gallery">
+
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.loginregister.ui.gallery.GalleryFragment"
+        android:label="@string/menu_maintenancier"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/navigation_notifications"
+        android:name="com.example.loginregister.ui.notifications.NotificationsFragment"
+        android:label="@string/title_notifications"
+        tools:layout="@layout/fragment_notifications" />
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.example.loginregister.ui.slideshow.SlideshowFragment"
+        android:label="Déconnexion"
+        tools:layout="@layout/fragment_slideshow" />
+</navigation>

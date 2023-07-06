@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".triage">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <Button
+            android:id="@+id/btnpack"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="211dp"
+            android:layout_height="62dp"
+            android:layout_marginTop="164dp"
+            android:background="@drawable/toolbarback"
+            android:text="Paquets"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.545"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/btnonepack"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="211dp"
+            android:layout_height="62dp"
+            android:layout_marginTop="324dp"
+            android:background="@drawable/toolbarback"
+            android:text="Recherche Paquet"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.545"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/btnsrchpack"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="211dp"
+            android:layout_height="62dp"
+            android:layout_marginTop="496dp"
+            android:background="@drawable/toolbarback"
+            android:text="Recherche Tag"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.545"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/btnrh"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="211dp"
+            android:layout_height="62dp"
+            android:layout_marginTop="616dp"
+            android:background="@drawable/toolbarback"
+            android:text="Affectation opératrice"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:visibility="invisible"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+</ScrollView>
